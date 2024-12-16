@@ -1,4 +1,4 @@
-namespace RetailStore
+namespace Identity.Api
 {
     public class WeatherForecast
     {

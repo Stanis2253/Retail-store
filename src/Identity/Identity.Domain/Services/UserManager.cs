@@ -1,17 +1,9 @@
 ﻿using Identity.DA.Models;
 using Identity.DA.Models.DTO;
-using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using System;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
-using System.Text;
-using System.Threading.Tasks;
-using System.Threading.Tasks;
 
 namespace Identity.Domain.Services
 {
